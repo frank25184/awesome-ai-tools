@@ -442,10 +442,10 @@ We publish regular updates of this repo in the [Altern Newsletter](http://newsle
 
 
 ## Related Awesome Lists
-
 - [Altern](https://altern.ai) - Find Best AI Tools
 - [Awesome AI Models](https://github.com/dariubs/awesome-ai-models) - A curated list of top AI models and LLMs
 - [There's An AI](https://theresanai.com) - Frontpage of AI
+- [AI Highlights from CogList](https://coglist.com) - Top AI tools, AI gadgets and a weekly AI newsletter
 - [Awesome AI Books](https://github.com/mahseema/aibooks) - Curated List of Top AI and ML Books
 - [AI for Productivity](https://productivity.directory/category/ai) - Curated List of AI Apps for productivity
 - [Workflow Automation Softwares](https://productivity.directory/category/workflow-automation) - Curated List of Workflow Automation Apps And Tools
@@ -456,7 +456,7 @@ We publish regular updates of this repo in the [Altern Newsletter](http://newsle
 - [Awesome AI Music](https://github.com/xaramore/awesome-ai-music) 
 - [Awesome AI Image](https://github.com/xaramore/awesome-ai-image) 
 - [Awesome AI Video](https://github.com/xaramore/awesome-ai-video)
-- [Awesome AI Writing](https://github.com/xaramore/awesome-ai-writing) 
+- [Awesome AI Writing](https://github.com/xaramore/awesome-ai-writing)
 
 
 created by [Mahsima Dastan](https://github.com/mahseema)
